@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://yuqinggongyg.github.io/portfolio/public/](https://yuqinggongyg.github.io/portfolio/public/) (not finish)
+- 👨‍💻 All of my projects are available at [my personal website](https://adagggggg.github.io/portfolio/public) (not finish)
 
 - 📫 How to reach me **yuq.gong@gmail.com**
 
